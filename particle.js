@@ -1,7 +1,7 @@
 /**
  * Minified by jsDelivr using UglifyJS v3.4.4.
  * Original file: /npm/particles.js@2.0.0/particles.js
- * 
+ *
  * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
  */
 var pJS = function(e, t) {
